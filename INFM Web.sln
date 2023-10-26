@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INFM Web", "INFM Web\INFM Web.csproj", "{56AAC3F4-CE94-4344-BCD3-F2D97005423A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56AAC3F4-CE94-4344-BCD3-F2D97005423A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AAC3F4-CE94-4344-BCD3-F2D97005423A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AAC3F4-CE94-4344-BCD3-F2D97005423A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AAC3F4-CE94-4344-BCD3-F2D97005423A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5359DEB-37A5-48D8-A0D3-BAE95231BD41}
+	EndGlobalSection
+EndGlobal
